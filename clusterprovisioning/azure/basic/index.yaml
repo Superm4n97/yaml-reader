@@ -1,0 +1,5 @@
+name: azure-basic
+isFolder: false
+packageType: cluster-provisioning
+templateType: ["workload","management"]
+cloudServiceProvider: azure
